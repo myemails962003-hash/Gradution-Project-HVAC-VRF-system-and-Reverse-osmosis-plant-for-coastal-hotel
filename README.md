@@ -6,4 +6,5 @@ This repository hosts the complete, comprehensive engineering documentation for 
 The complete **137-page technical report** is available in this repository. It covers:
 * cooling load calcultion using HAP, Indoor and outdoor units selection and shf check, DOAS selection, kithchen AHU selection, shop drawing using AutoCAD.
 * Water analysis using veoila Winflows, Water treatment process selection and calcultions, Plant components selection, P&ID for full plant.
+* 
 👉 **Click on the PDF file above to read or download the full report.**
